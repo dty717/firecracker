@@ -1,0 +1,85 @@
+文件夹 PATH 列表
+卷序列号为 00540044 C6EB:1C46
+C:\USERS\XQY\DESKTOP\GITHUB\DTY717\FIRECRACKER
+├─.cargo
+├─api_server
+│  ├─src
+│  │  └─request
+│  └─swagger
+├─cpuid
+│  └─src
+├─devices
+│  └─src
+│      ├─legacy
+│      └─virtio
+│          └─vhost
+├─docs
+│  └─images
+├─dumbo
+│  └─src
+│      ├─pdu
+│      └─tcp
+├─fc_util
+│  └─src
+├─jailer
+│  └─src
+├─kernel
+│  └─src
+│      ├─cmdline
+│      └─loader
+├─kvm
+│  └─src
+├─kvm_sys
+│  ├─patches
+│  ├─src
+│  │  └─x86
+│  └─tests
+├─logger
+│  └─src
+├─memory_model
+│  └─src
+├─micro_http
+│  └─src
+│      └─common
+├─mmds
+│  └─src
+├─net_sys
+│  └─src
+├─net_util
+│  └─src
+├─rate_limiter
+│  └─src
+├─resources
+├─seccomp
+│  └─src
+├─src
+│  └─bin
+├─sys_util
+│  └─src
+├─tests
+│  ├─framework
+│  ├─host_tools
+│  └─integration_tests
+│      ├─build
+│      ├─functional
+│      ├─performance
+│      └─security
+│          └─demo_advanced_seccomp
+│              └─src
+│                  └─bin
+├─tools
+│  └─devctr
+├─vhost_backend
+│  └─src
+├─vhost_sys
+│  ├─patches
+│  └─src
+├─virtio_sys
+│  ├─patches
+│  └─src
+├─vmm
+│  └─src
+│      ├─device_manager
+│      └─vmm_config
+└─x86_64
+    └─src
